@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #top {
     width: 800px;
     background-color: #dcc9f4;
@@ -76,33 +75,4 @@
     background-color: #e5dcf0;
     left: 400px;
     position: relative;
-=======
-body {
-    font-family: "Arial","meiryo",sans-serif
-}
-.google-fonts {
-    font-family: "Josefin Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
-}
-html {
-    font-size: 20px;
-    text-align: center;
-}
-h1 {
-    font-size: 2rem;
-    letter-spacing: 1.2em;
-    text-shadow: 3px 3px 2px brown;
-    border-bottom: solid 3px rgb(115,115,114);
-}
-.text-sky {
-    color: skyblue;
-}
-.text-pink {
-    color: rgb(255,192,203);
-}
-#basic > p{
-    font-weight: bold;
->>>>>>> origin/main
 }
